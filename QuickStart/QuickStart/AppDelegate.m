@@ -18,11 +18,10 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
 
-    //git change demo
     
     
     
-    /**/
+    /*xcode configure commit*/
     
     return YES;
 }
